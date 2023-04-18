@@ -1,1 +1,1 @@
-# sqlinjson
+$ go run .
